@@ -1,2 +1,2 @@
 # t2tway.github.io
-my first webpage
+my static first webpage
